@@ -1,0 +1,131 @@
+body {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    width: 390px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+
+nav {
+    width: 390px;
+    display: flex;
+    height: 100px;
+    background-color: #548B6C;
+    position: absolute;
+    position: fixed;
+    z-index: 10000;
+    margin-top: -100px;
+}
+
+.weather {
+    display: flex;
+    padding-top: 44px;
+    padding-left: 16px;
+    width: 78px;
+    height: 44px;
+    line-height: 3px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.weathertext {
+    margin-left: 4px;
+    font-size: 18px;
+    line-height: 10px;
+}
+
+.weatherC {
+    margin-left: 0;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.logo {
+    margin-left: 42px;
+    margin-top: 30px;
+}
+
+.burger {
+    margin-top: 45px;
+    padding-left: 50px;
+}
+
+.box2 {
+    width: 390px;
+    background-image: url(../img/2.png);
+    background-size: 100% 100%;
+    height: 250px;
+    color: #CCCDD2;
+    font-size: 16px;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #ffffff;
+    padding-top: 33px;
+    padding-left: 33px;
+    font-size: 25px;
+}
+
+.moon {
+    padding-left: 33px;
+}
+
+.box3 {
+    width: 390px;
+    height: 180px;
+    background-image: url(../img/3.png);
+    background-size: 100% 100%;
+    display: inline-block;
+}
+
+h1 {
+    color: #ffffff;
+    padding-top: 33px;
+    font-size: 30px;
+}
+
+.box4 {
+    background-image: url(../img/4.png);
+    background-size: 100% 100%;
+    width: 390px;
+    height: 180px;
+    display: inline-block;
+    text-align: center;
+}
+
+.box5 {
+    background-image: url(../img/5.png);
+    width: 390px;
+    background-size: 100% 100%;
+    height: 180px;
+    display: inline-block;
+}
+
+.box6 {
+    background-color: #548B6C;
+    background-size: 100% 100%;
+    width: 390px;
+    height: 60px;
+    display: inline-block;
+}
+
+.box7 {
+    background-image: url(../img/7.png);
+    width: 390px;
+    background-size: 100% 100%;
+    height: 180px;
+    text-align: center;
+}
+
+.box8 {
+    background-image: url(../img/8.png);
+    width: 390px;
+    background-size: 100% 100%;
+    height: 180px;
+}
