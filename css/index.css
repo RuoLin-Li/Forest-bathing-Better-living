@@ -14,7 +14,7 @@ body {
 nav {
     width: 390px;
     display: flex;
-    height: 100px;
+    height: 56px;
     background-color: #548B6C;
     position: absolute;
     position: fixed;
@@ -24,7 +24,6 @@ nav {
 
 .weather {
     display: flex;
-    padding-top: 44px;
     padding-left: 16px;
     width: 78px;
     height: 44px;
@@ -47,7 +46,6 @@ nav {
 
 .logo {
     margin-left: 42px;
-    margin-top: 30px;
 }
 
 a {
@@ -61,7 +59,7 @@ a {
 .burger {
     position: absolute;
     display: block;
-    padding-top: 44px;
+
     right: 16px;
 }
 
